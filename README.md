@@ -5,3 +5,9 @@ Clone
 ```
 git clone https://github.com/CollinEdward/Face_HandPasswordUnlocker.git
 ```
+
+This is made with the python moduel cv2.
+
+```bash
+pip install opencv-python
+```
