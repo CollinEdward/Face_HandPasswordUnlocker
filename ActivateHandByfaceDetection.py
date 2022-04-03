@@ -1,7 +1,6 @@
 import cv2
 import random
 
-
 handCascade = cv2.CascadeClassifier("handTracking.xml")
 
 palmCascade = cv2.CascadeClassifier("handPalm.xml")
